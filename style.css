@@ -5,7 +5,7 @@
       display: flex;
       justify-content: center;
       align-items: center;
-      height: 90vh;
+      height: 100vh;
     } git
 
     .quiz-container {
@@ -50,19 +50,19 @@
     }
 
     .correct {
-      color: green;
+      color: purple;
       margin-top: 10px;
       font-weight: bold;
     }
 
     .wrong {
-      color: red;
+      color: blue;
       margin-top: 10px;
       font-weight: bold;
     }
 
     button {
-      margin-top: 14px; 
+      margin-top: 15px; 
       padding: 10px 15px;
       border: none;
       border-radius: 8px;
